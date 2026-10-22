@@ -1,0 +1,6 @@
+{
+  "name": "InspectCam",
+  "description": "Mobile-first garment and sample inspection camera with automated category naming, barcode scanning, and A4 PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
