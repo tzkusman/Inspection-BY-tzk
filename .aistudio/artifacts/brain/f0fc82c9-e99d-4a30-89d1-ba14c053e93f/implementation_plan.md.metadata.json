@@ -1,6 +1,0 @@
-{
-  "summary":  "Detailed implementation plan for InspectCam, a native Android garment inspection application built with Jetpack Compose, CameraX, Room database, ML Kit barcode scanning, and PDF/ZIP export.",
-  "updatedAt":  "2026-10-22T05:28:39.488344608Z",
-  "requestFeedback":  true,
-  "userFacing":  true
-}
